@@ -16,7 +16,7 @@ This bash script automatically switches your monitor’s resolution for Counter-
 
 ## Installation
 ```bash
-git clone https://github.com/syscall-dissociate/cs2-resolution-changer.git
+git clone https://github.com/sk3y04/cs2-resolution-changer.git
 cd cs2-resolution-script
 chmod +x cs2-resolution.sh
 ```
